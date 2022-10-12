@@ -1,5 +1,5 @@
 {
-    "name": "laraish/options",
+    "name": "wllionel/options",
     "description": "Package for creating options page in WordPress.",
     "keywords": [
         "framework",
@@ -7,21 +7,21 @@
         "wordpress"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/laraish/options",
+    "homepage": "https://github.com/wllionel/options",
     "support": {
-        "issues": "https://github.com/laraish/options/issues",
-        "source": "https://github.com/laraish/options"
+        "issues": "https://github.com/wllionel/options/issues",
+        "source": "https://github.com/wllionel/options"
     },
     "authors": [
         {
-            "name": "yaquawa",
-            "email": "yaquawa@gmail.com"
+            "name": "Lionel Pham",
+            "email": "phamngoctuong1805@gmail.com"
         }
     ],
     "require": {
         "php": "^7.3",
-        "laraish/contracts": "^2.0",
-        "laraish/support": "^2.0"
+        "wllionel/contracts": "1.0.1",
+        "wllionel/support": "1.0.1"
     },
     "autoload": {
         "psr-4": {
